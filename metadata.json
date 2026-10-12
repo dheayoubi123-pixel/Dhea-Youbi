@@ -1,0 +1,6 @@
+{
+  "name": "BENING4D BILLIARD - Arena & Lounge Biliar Eksklusif",
+  "description": "BENING4D Billiard adalah arena biliar premium dan pusat turnamen terpercaya dengan meja standar internasional, pro shop, lounge, dan atmosfer eksklusif bertema oranye.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
